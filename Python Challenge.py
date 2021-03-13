@@ -1,11 +1,11 @@
 print ("Enter Details User 1")
 name_1 = input ("Enter Your Name: ")
-password = input ("Enter User Password: ")
+password_1 = input ("Enter User Password: ")
 age_1 = int(input ("Enter Your Age: "))
 print ("__________________________________")
 print ("Enter Details User 2")
 name_2 = input ("Enter Your Name: ")
-password = input ("Enter User Password: ") 
+password_2 = input ("Enter User Password: ") 
 age_2 = int(input ("Enter Your Age: "))
 print ("__________________________________")
 number_list = [age_1,age_2]
